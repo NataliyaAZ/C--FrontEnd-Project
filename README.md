@@ -1,6 +1,6 @@
 The Front End project was the third project during my time at the Tech Academy.
 
-There are total 4 Live Projects offered by the Academy to its students: Python Project, C# Project, Front End and Back End Projects.Ussually Front End and Back End Projects  are done after Python and C# Sharp Projects. Students can select either Python or C# for their front-end and back-end projects.I selected C# (please also see C# Live Project) for the front-end.
+There are total 4 Live Projects offered by the Academy to its students: Python Project, C# Project, Front End and Back End Projects. Ussually Front End and Back End Projects are done after Python and C# Sharp Projects. Students can select either Python or C# for their front-end and back-end projects. I selected C# for the front-end.
 
 About the project application:
 
@@ -135,7 +135,7 @@ The sample code is below:
             </td>
 ~~~
 #### 2.Edit and Delete Company News
-Admin could create Company News from the dashboard. If Admin wanted to edit or delete any news they had to click edit or delete buttons and they would be redirected to the different Edit or Delete pages of the application. 
+Admin could create Company News from the dashboard. If Admin wanted to edit or delete any news they had to click edit or delete buttons and they would be redirected to Edit or Delete pages. 
 Using the Bootstrap modal and Ajax I implemented a pop up modal for editing Company News. And used the confirmation modal above to confirm the news deletion.The redirecting pages were no longer required.
 
 Dashboard View (where the Edit News Modal should pop-up):
@@ -228,7 +228,7 @@ This is how the Delete Company News Modal called:
 
 ~~~
 
-#### 3.Dashboard- Users section look
+#### 3.Dashboard - Users sections look
 Added a title for the different sections of users (Active and Suspended) in the dashboard and created a zebra striping look the users table-lists. 
 
 Dashboard View:
