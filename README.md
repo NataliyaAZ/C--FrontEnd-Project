@@ -1,6 +1,6 @@
 The Front End project was the third project during my time at the Tech Academy.
 
-There are total 4 Live Projects offered by the Academy to their students: Python Project, C# Project, Front End and Back End Projects. Ussually Front End and Back End Projects are done after Python and C# Sharp Projects. Students can select either Python or C# for their front-end and back-end projects. I selected C# for the front-end.
+There are total 4 Live Projects offered by the Academy to their students: [Python Project](https://github.com/NataliyaAZ/Python-Live-Project/blob/master/README.md), [C# Project](https://github.com/NataliyaAZ/C-Sharp-Live-Project/blob/master/README.md), Front End and [Back End Projects](https://github.com/NataliyaAZ/Python-BackEnd-Project/blob/master/README.md). Ussually Front End and Back End Projects are done after Python and C# Sharp Projects. Students can select either Python or C# for their front-end and back-end projects. I selected C# for the front-end.
 
 About the project application:
 
